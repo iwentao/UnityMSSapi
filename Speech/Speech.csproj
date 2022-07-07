@@ -60,12 +60,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\SApiClient\Assets\Core\ByteInArg.cs">
-      <Link>Core\ByteInArg.cs</Link>
-    </Compile>
-    <Compile Include="..\SApiClient\Assets\Core\SocketExtra.cs">
-      <Link>Core\SocketExtra.cs</Link>
-    </Compile>
+    <Compile Include="Core\ByteInArg.cs" />
+    <Compile Include="Core\SocketExtra.cs" />
     <Compile Include="EmCmd.cs" />
     <Compile Include="NetServer.cs" />
     <Compile Include="Program.cs" />

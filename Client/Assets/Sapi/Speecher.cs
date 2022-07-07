@@ -7,6 +7,7 @@ using UnityEngine.Events;
 
 public class Speecher : MonoBehaviour, INetComponent
 {
+    public string ProcessName = "speech.exe";
     private SocketClient m_socket;
     private Process m_process;
 
@@ -20,7 +21,7 @@ public class Speecher : MonoBehaviour, INetComponent
         {
             StartInfo = new ProcessStartInfo
             {
-                FileName = "speech.exe",
+                FileName = ProcessName,
                 CreateNoWindow = !ServerDisplay,
                 WindowStyle = ServerDisplay ? ProcessWindowStyle.Normal : ProcessWindowStyle.Hidden
             },

@@ -14,13 +14,15 @@ namespace Speech
 
         public Recognizer()
         {
-            var myCIintl = new CultureInfo("en-US");
+            //var myCIintl = new CultureInfo("en-US");
+            var myCIintl = new CultureInfo("zh-CN");
             var rs = SpeechRecognitionEngine.InstalledRecognizers();
             if (rs.Count > 0)
             {
                 foreach (var config in rs)//获取所有语音引擎  
                 {
-                    if (config.Culture.Equals(myCIintl) && config.Id == "MS-1033-80-DESK")
+                    //if (config.Culture.Equals(myCIintl) && config.Id == "MS-1033-80-DESK")
+                    if (config.Culture.Equals(myCIintl) && config.Id == "MS - 2052 - 80 - DESK")
                     {
                         m_recognizer = new SpeechRecognitionEngine(config);
                         break;

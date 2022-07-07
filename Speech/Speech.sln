@@ -1,9 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1738
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speech", "Speech.csproj", "{75C5ABB7-650C-444F-9657-A4A054F67E99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeechRecognizer", "..\SpeechRecognizer\SpeechRecognizer.csproj", "{868E4F75-D61D-4B54-A0B4-46E8B56555E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecList", "..\RecList\RecList.csproj", "{34C31387-DC07-46A7-9ED4-98BC84C57BF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecSample01", "..\RecSample01\RecSample01.csproj", "{FAC0E4CB-38A4-4AC3-91A8-074F202DCDBA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +21,23 @@ Global
 		{75C5ABB7-650C-444F-9657-A4A054F67E99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75C5ABB7-650C-444F-9657-A4A054F67E99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75C5ABB7-650C-444F-9657-A4A054F67E99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{868E4F75-D61D-4B54-A0B4-46E8B56555E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{868E4F75-D61D-4B54-A0B4-46E8B56555E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{868E4F75-D61D-4B54-A0B4-46E8B56555E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{868E4F75-D61D-4B54-A0B4-46E8B56555E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34C31387-DC07-46A7-9ED4-98BC84C57BF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34C31387-DC07-46A7-9ED4-98BC84C57BF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34C31387-DC07-46A7-9ED4-98BC84C57BF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34C31387-DC07-46A7-9ED4-98BC84C57BF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAC0E4CB-38A4-4AC3-91A8-074F202DCDBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC0E4CB-38A4-4AC3-91A8-074F202DCDBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC0E4CB-38A4-4AC3-91A8-074F202DCDBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC0E4CB-38A4-4AC3-91A8-074F202DCDBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA030F66-1AB1-4AE3-AF26-BA206A9F8C7D}
 	EndGlobalSection
 EndGlobal
