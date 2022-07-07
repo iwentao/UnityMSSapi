@@ -1,0 +1,7 @@
+D:\git\UnityMSSapi\SpeechRecognizer\bin\Debug\SpeechRecognizer.exe
+D:\git\UnityMSSapi\SpeechRecognizer\bin\Debug\SpeechRecognizer.pdb
+D:\git\UnityMSSapi\SpeechRecognizer\obj\Debug\SpeechRecognizer.csprojAssemblyReference.cache
+D:\git\UnityMSSapi\SpeechRecognizer\obj\Debug\SpeechRecognizer.csproj.CoreCompileInputs.cache
+D:\git\UnityMSSapi\SpeechRecognizer\obj\Debug\SpeechRecognizer.exe
+D:\git\UnityMSSapi\SpeechRecognizer\obj\Debug\SpeechRecognizer.pdb
+D:\git\UnityMSSapi\SpeechRecognizer\bin\Debug\SpeechRecognizer.exe.config

@@ -1,0 +1,7 @@
+D:\git\UnityMSSapi\RecList\bin\Debug\RecList.exe.config
+D:\git\UnityMSSapi\RecList\bin\Debug\RecList.exe
+D:\git\UnityMSSapi\RecList\bin\Debug\RecList.pdb
+D:\git\UnityMSSapi\RecList\obj\Debug\RecList.csprojAssemblyReference.cache
+D:\git\UnityMSSapi\RecList\obj\Debug\RecList.csproj.CoreCompileInputs.cache
+D:\git\UnityMSSapi\RecList\obj\Debug\RecList.exe
+D:\git\UnityMSSapi\RecList\obj\Debug\RecList.pdb

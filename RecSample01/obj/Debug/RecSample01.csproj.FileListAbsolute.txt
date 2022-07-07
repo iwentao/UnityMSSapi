@@ -1,0 +1,6 @@
+D:\git\UnityMSSapi\RecSample01\obj\Debug\RecSample01.csprojAssemblyReference.cache
+D:\git\UnityMSSapi\RecSample01\obj\Debug\RecSample01.csproj.CoreCompileInputs.cache
+D:\git\UnityMSSapi\RecSample01\bin\Debug\RecSample01.exe
+D:\git\UnityMSSapi\RecSample01\bin\Debug\RecSample01.pdb
+D:\git\UnityMSSapi\RecSample01\obj\Debug\RecSample01.exe
+D:\git\UnityMSSapi\RecSample01\obj\Debug\RecSample01.pdb
